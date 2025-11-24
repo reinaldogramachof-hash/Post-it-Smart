@@ -1,0 +1,7 @@
+{
+  "name": "Post-it Smart",
+  "description": "Um bloco de notas inteligente para pais, transformando observações rápidas em orientações práticas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
